@@ -105,7 +105,7 @@
         android:scaleType="fitCenter"
         android:src="@drawable/ic_baseline_info_24"
         app:elevation="6dp"
-        app:maxImageSize="60dp"
+        app:maxImageSize="48dp"
         app:fabCustomSize="64dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/scrollView3"
